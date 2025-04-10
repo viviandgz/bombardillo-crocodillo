@@ -1,0 +1,53 @@
+body{
+    background-color: steelblue;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th{
+
+    background-color: darkcyan;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+td{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.trailer iframe{
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+header{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/165/269/non_2x/35mm-old-movie-film-film-mockup-frame-background-free-photo.jpg
+    ) ;
+    
+}
+
+footer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
